@@ -34,8 +34,20 @@ Cada pressionamento do botão alterna entre diferentes modos de iluminação.
 
 ## 🔌 Esquema do Circuito
 
+### Todas as LEDs
 ![Circuito](todasz.jpg)
 
+### LEDs Amarelas
+![Circuito](amarelas.jpg)
+
+### LEDs Azuis
+![Circuito](azuis.jpg)
+
+### LED Vermelha
+![Circuito](vermelhas.jpg)
+
+### LED Verde
+![Circuito](verde.jpg)
 ## 💻 Código
 
 O código principal do projeto está disponível no arquivo `.ino` deste repositório.
